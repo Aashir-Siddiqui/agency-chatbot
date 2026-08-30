@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+langchain-core
+langchain-groq
+langchain-community
+langchain-chroma
+langgraph
+langgraph-checkpoint-postgres
+chromadb
+sentence-transformers
+pydantic-settings
+python-dotenv
+slowapi
+langsmith
+psycopg[binary,pool]
+redis
+langchain-huggingface
